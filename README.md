@@ -1,8 +1,12 @@
-# React + Vite
+# Bank-app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+You can see the project live https://elnurnabivi.github.io/Bank-app/
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Bank-app is a mobile-friendly web application designed to provide a seamless banking experience. Built with React and styled using Tailwind CSS.
+
+## Features
+
+- **Responsive Design**: The app is fully responsive, providing a great user experience on a wide range of devices, from phones to tablets to desktops.
+- **User-Friendly Interface**: Designed with usability in mind, ensuring easy navigation and access to banking features.
